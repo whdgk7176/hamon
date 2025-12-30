@@ -39,3 +39,5 @@ def test_add(a,b) -> None:
     return a+b
     print(add(2,3))
     # then
+def test_dummy():
+    assert True
