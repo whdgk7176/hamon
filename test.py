@@ -35,5 +35,7 @@ def test_get_eta_2024_2_28() -> None:
     # given
 
     # when
-
+def test_add(a,b) -> None:
+    return a+b
+    
     # then
